@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-sample-51a1e",
+    "development": "fir-sampledevelop"
+  }
+}
